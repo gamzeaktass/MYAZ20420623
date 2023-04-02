@@ -1,0 +1,15 @@
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\bin\Debug\net6.0\CollectionsConsoleApp.exe
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\bin\Debug\net6.0\CollectionsConsoleApp.deps.json
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\bin\Debug\net6.0\CollectionsConsoleApp.runtimeconfig.json
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\bin\Debug\net6.0\CollectionsConsoleApp.dll
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\bin\Debug\net6.0\CollectionsConsoleApp.pdb
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\obj\Debug\net6.0\CollectionsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\obj\Debug\net6.0\CollectionsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\obj\Debug\net6.0\CollectionsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\obj\Debug\net6.0\CollectionsConsoleApp.AssemblyInfo.cs
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\obj\Debug\net6.0\CollectionsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\obj\Debug\net6.0\CollectionsConsoleApp.dll
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\obj\Debug\net6.0\refint\CollectionsConsoleApp.dll
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\obj\Debug\net6.0\CollectionsConsoleApp.pdb
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\obj\Debug\net6.0\CollectionsConsoleApp.genruntimeconfig.cache
+C:\Users\GAMZE\Desktop\DataStructures\CollectionsConsoleApp\obj\Debug\net6.0\ref\CollectionsConsoleApp.dll
